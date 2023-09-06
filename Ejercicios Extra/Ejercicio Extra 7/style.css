@@ -1,0 +1,12 @@
+.tabla{
+    border-collapse: collapse;
+    text-align: center;
+}
+
+table, th {
+    border: 3px solid black;
+}
+
+td {
+    border: 1px solid black;
+}
